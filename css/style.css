@@ -725,6 +725,7 @@ b i:last-child {
     position: relative;
     overflow: hidden;
     display: block;
+    border: #333;
 }
 
 .portfolio_item .portfolio_item_hover {
