@@ -692,6 +692,8 @@ b i:last-child {
 .portfolio .categories-grid .categories ul li {
     list-style: none;
     margin: 20px 0;
+    border: #333;
+    border-width: 2px;
 }
 
 .portfolio .categories-grid .categories ul li a {
